@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SunnyWeather</string>
+    <string name="fp_contentDescription">背景</string>
+    <string name="fp_hint">输入地址</string>
 </resources>
